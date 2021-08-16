@@ -1,5 +1,6 @@
 # tools
-Popular Dell Tools at a glance...
+***Popular Dell Tools at a glance...
+
 
 Dell Tool | Driver ID | Version | Release Date | Last Updated | Link
 ------------ | ------------- | ------------- | ------------- | ------------- | ----------------------------------
@@ -20,4 +21,5 @@ x | y | z | A | B | https://www.dell.com/support/home/en-us/drivers/driversdetai
 x | y | z | A | B | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=
 x | y | z | A | B | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=
 
-Last updated 16 Aug 2021
+
+***Last updated 16 Aug 2021
