@@ -5,9 +5,9 @@
 Dell Tool | Driver ID | Version | Release Date | Last Updated | Link
 ------------ | ------------- | ------------- | ------------- | ------------- | ----------------------------------
 ***Dell Bios Flash Utility 64Bit*** | c3tjv | 3.3.13 | 19 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c3tjv
-***Dell Command Configure*** | tmv11 | 4.5.0.205 | 13 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=tmv11
+***Dell Command Configure*** | kvf2c | 4.6.0.277 | 28 Sep 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kvf2c
 ***Dell Command Deploy WinPE Driver Pack*** | 45f17 | A24 | 11 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=45f17
-***Dell Command Monitor*** | 6g8p8 | 10.5.0.104 | 13 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=6g8p8
+***Dell Command Monitor*** | jd76w | 10.5.0.104 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jd76w
 ***Dell Command PowerShell Provider*** | 107wd | 2.4.0.19 | 29 Dec 2020 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=107wd
 ***Dell Command Update*** | 8d5mc | 4.3.0 | 29 Jul 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8d5mc
 ***Dell Command Cloud Repository Manager*** | na | 1.11 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes
@@ -21,4 +21,4 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.0.0.34 | 20. Aug 2021 | | https://tdm.dell.com/portal/ 
 
 
-***Last updated 23 Sep 2021***
+***Last updated 28 Sep 2021***
