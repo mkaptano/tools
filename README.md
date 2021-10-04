@@ -8,7 +8,7 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link
 ***Dell Command Configure*** | kvf2c | 4.6.0.277 | 28 Sep 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kvf2c
 ***Dell Command Deploy WinPE Driver Pack*** | 45f17 | A24 | 11 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=45f17
 ***Dell Command Monitor*** | jd76w | 10.5.0.104 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jd76w
-***Dell Command PowerShell Provider*** | 107wd | 2.4.0.19 | 29 Dec 2020 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=107wd
+***Dell Command PowerShell Provider*** | 29cn5 | 2.6.0.64 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=29cn5
 ***Dell Command Update*** | 8d5mc | 4.3.0 | 29 Jul 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8d5mc
 ***Dell Command Cloud Repository Manager*** | na | 1.11 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes
 ***Dell Display Manager*** | 6x02n | 1.52.0.2052 | 09 Jun 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=6x02n
