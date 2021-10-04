@@ -21,4 +21,4 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.0.0.34 | 20. Aug 2021 | | https://tdm.dell.com/portal/ 
 
 
-***Last updated 28 Sep 2021***
+***Last updated 04 Oct 2021***
