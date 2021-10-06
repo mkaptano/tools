@@ -3,7 +3,7 @@
 
 
 Dell Tool | Driver ID | Version | Release Date | Last Updated | Link | Comments
------------- | ------------- | ------------- | ------------- | ------------- | ---------------------------------- | ------------------------------------------------
+------------ | ------------- | ------------- | ------------- | ------------- | ----------------------------------------- | ----------------------------------------------------------------
 ***Dell Bios Flash Utility 64Bit*** | c3tjv | 3.3.13 | 19 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c3tjv |na
 ***Dell Command Configure*** | kvf2c | 4.6.0.277 | 28 Sep 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kvf2c |na
 ***Dell Command Deploy WinPE Driver Pack*** | 45f17 | A24 | 11 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=45f17 |na
