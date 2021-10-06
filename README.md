@@ -12,7 +12,7 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link | Comments
 ***Dell Command Update*** | 8d5mc | 4.3.0 | 29 Jul 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8d5mc |na
 ***Dell Command Cloud Repository Manager*** | na | 1.11 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes | na
 ***Dell Display Manager*** | w28xk | 1.54.0.2068 | 01 Oct 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w28xk | Alternative download via https://www.delldisplaymanager.com/
-***Dell Optimizer*** | knh7m | 2.0.651.0 | 16 Mar 2021 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=knh7m | na
+***Dell Optimizer*** | td34p | 2.0.753.0 | 05 Oct 2021 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=td34p | na
 ***Dell Power Manager*** | gd7j6 | 3.9.0 | 20 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=gd7j6 | na
 ***Dell Trusted Device Agent*** | j9whm | 3.7.89.0 | 04 Oct 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j9whm | Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers
 ***Dell ImageAssist*** | na | 10.0.4 | Jun 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na
