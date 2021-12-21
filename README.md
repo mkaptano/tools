@@ -18,7 +18,7 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link | Comments
 ***Dell ImageAssist*** | na | 10.0.4 | Jun 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na |
 ***Dell OpenManage Inventory Agent*** | na | 3.2.0.1 | 22 Oct 2021 | | https://downloads.dell.com/FOLDER07848143M/1/DSIAPC_3.2.0.1.msi | na |
 ***Dell Platform Tags*** | m7wmw | 4.0.34.0 | 16 Jul 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m7wmw | na |
-***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.0.64 | 08 Oct 2021 | | https://tdm.dell.com/portal/ | na |
+***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.1.18 | 18 Nov 2021 | | https://tdm.dell.com/portal/ | na |
 
 
 ***Last updated 21 Dec 2021***
