@@ -18,8 +18,8 @@ Dell Tool | Driver ID | Version | Release Date | Last Updated | Link | Comments
 ***Dell ImageAssist*** | na | 11.0.0 | Nov 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na |
 ***Dell OpenManage Inventory Agent*** | na | 3.2.0.1 | 22 Oct 2021 | | https://downloads.dell.com/FOLDER07848143M/1/DSIAPC_3.2.0.1.msi | na |
 ***Dell Peripheral Manager*** | j9mvc | 1.5.1| 11 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j9mvc | na |
-***Dell Platform Tags*** | 0ttm1 | 4.0.36.0 | 13 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0ttm1 | na |
+***Dell Platform Tags*** | d4mtv | 4.0.39.0 | 21 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=d4mtv | na |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.1.18 | 18 Nov 2021 | | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 18 Jan 2022***
+***Last updated 25 Jan 2022***
