@@ -11,7 +11,7 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell Command PowerShell Provider*** | 29cn5 | 2.6.0.64 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=29cn5 |na |
 ***Dell Command Update*** | 8dgg4 | 4.4.0 | 29 Oct 2021 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8dgg4 |This is the Win32 version
 ***Dell Command Cloud Repository Manager*** | na | 1.12 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes | na |
-***Dell Display Manager*** | w28xk | 1.54.0.2068 | 01 Oct 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w28xk | Alternative download via https://www.delldisplaymanager.com/ | 
+***Dell Display Manager*** | v9rk0 | 1.55.0.2090 | 14 Feb 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=v9rk0| Alternative download via https://www.delldisplaymanager.com/ | 
 ***Dell Optimizer*** | td34p | 2.0.753.0 | 05 Oct 2021 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=td34p | na |
 ***Dell Power Manager*** | kdhhr | 3.10.0 | 04 Nov 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kdhhr | na |
 ***Dell Trusted Device Agent*** | 0kw71| 4.0.102.0 | 05 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0kw71 | Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers |
@@ -22,4 +22,4 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.1.18 | 18 Nov 2021 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 07 Feb 2022***
+***Last updated 17 Feb 2022***
