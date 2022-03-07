@@ -1,6 +1,7 @@
 # tools
 ***Popular Dell Tools at a glance...***
 
+***Important Note:*** Please always verify if the release of your favorite tool is compatible to your Dell Systems by checking "Compatible Systems" section of the Dell Website. 
 
 Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments
 ------------ | ------------- | ------------- | ------------- | ------------- | ----------------------------------------- | ----------------------------------------------------------------
