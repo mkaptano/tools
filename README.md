@@ -18,10 +18,10 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell Power Manager*** | kdhhr | 3.10.0 | 04 Nov 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kdhhr | na |
 ***Dell Trusted Device Agent*** | d5vx4| 4.2.111.0 | 28 Feb 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=d5vx4 | Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers |
 ***Dell ImageAssist*** | na | 11.0.0 | Nov 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na |
-***Dell OpenManage Inventory Agent*** | na | 3.2.0.1 | 22 Oct 2021 | | https://downloads.dell.com/FOLDER07848143M/1/DSIAPC_3.2.0.1.msi | na |
+***Dell OpenManage Inventory Agent*** | na | 3.6.0.2 | 18 Feb 2022 | | https://downloads.dell.com/FOLDER08210736M/1/DSIAPC_3.6.0.2.msi | na |
 ***Dell Peripheral Manager*** | j9mvc | 1.5.1| 11 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j9mvc | na |
 ***Dell Platform Tags*** | 97k79 | v4.0.40.0 | 03 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=97k79 | na |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.1.18 | 18 Nov 2021 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 07 Mar 2022***
+***Last updated 18 Mar 2022***
