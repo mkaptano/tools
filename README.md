@@ -21,7 +21,7 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell OpenManage Inventory Agent*** | na | 3.6.0.2 | 18 Feb 2022 | | https://downloads.dell.com/FOLDER08210736M/1/DSIAPC_3.6.0.2.msi | na |
 ***Dell Peripheral Manager*** | j9mvc | 1.5.1| 11 Jan 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j9mvc | na |
 ***Dell Platform Tags*** | 97k79 | v4.0.40.0 | 03 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=97k79 | na |
-***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.1.1.18 | 18 Nov 2021 | yes | https://tdm.dell.com/portal/ | na |
+***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 18 Mar 2022***
+***Last updated 24 Mar 2022***
