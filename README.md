@@ -10,8 +10,8 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell Command Deploy WinPE Driver Pack*** | f0xpx | A25 | 30 Sep 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=f0xpx | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack |
 ***Dell Command Monitor*** | jd76w | 10.6.0.150 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jd76w |na |
 ***Dell Command PowerShell Provider*** | 29cn5 | 2.6.0.64 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=29cn5 |na |
-***Dell Command Update*** | 8dgg4 | 4.4.0 | 29 Oct 2021 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8dgg4 |This is the Win32 version
-***Dell Command Update*** | pwd0m | 4.4.0 | 29 Oct 2021 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=pwd0m|This is the UWP version
+***Dell Command Update*** | w4hp2 | 4.5.0 | 25 Mar 2022 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w4hp2 |This is the Win32 version
+***Dell Command Update*** | 601kt| 4.5.0 | 25 Mar 2022 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=601kt|This is the UWP version
 ***Dell Command Cloud Repository Manager*** | na | 1.12 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes | na |
 ***Dell Display Manager*** | v9rk0 | 1.55.0.2090 | 14 Feb 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=v9rk0| Alternative download via https://www.delldisplaymanager.com/ | 
 ***Dell Optimizer*** | rtrrp | 3.0.233.0 | 02 Mar 2022 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=rtrrp | na |
@@ -24,4 +24,4 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 24 Mar 2022***
+***Last updated 25 Mar 2022***
