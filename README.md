@@ -5,7 +5,7 @@
 
 Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments
 ------------ | ------------- | ------------- | ------------- | ------------- | ----------------------------------------- | ----------------------------------------------------------------
-***Dell Bios Flash Utility 64Bit*** | c3tjv | 3.3.13 | 19 May 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c3tjv |na |
+***Dell Bios Flash Utility 64Bit*** | gdk36 | 3.3.16 | 08 Apr 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=gdk36 |na |
 ***Dell Command Configure*** | kvf2c | 4.6.0.277 | 28 Sep 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kvf2c |na |
 ***Dell Command Deploy WinPE Driver Pack*** | x0d0g | A26 | 21 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=x0d0g | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack |
 ***Dell Command Monitor*** | jd76w | 10.6.0.150 | 28 Sep 2021| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jd76w |na |
@@ -24,4 +24,4 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 05 Apr 2022***
+***Last updated 11 Apr 2022***
