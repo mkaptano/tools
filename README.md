@@ -14,7 +14,7 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell Command Update*** | 601kt| 4.5.0 | 25 Mar 2022 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=601kt|This is the UWP version
 ***Dell Command Cloud Repository Manager*** | na | 1.12 | na | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/dccrm_rel-notes | na |
 ***Dell Display Manager*** | v9rk0 | 1.55.0.2090 | 14 Feb 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=v9rk0| Alternative download via https://www.delldisplaymanager.com/ | 
-***Dell Optimizer*** | td34p | 2.0.753.0 | 05 Oct 2021 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=td34p| www.dell.com/optimizer |
+***Dell Optimizer*** | ycy73 | 3.0.258.0 | 18 Apr 2022 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=ycy73| www.dell.com/optimizer |
 ***Dell Power Manager*** | kdhhr | 3.10.0 | 04 Nov 2021 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kdhhr | na |
 ***Dell Trusted Device Agent*** | jgtn4 | 4.3.115.0 | 04 Apr 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jgtn4 | Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers |
 ***Dell ImageAssist*** | na | 11.0.0 | Nov 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na |
@@ -24,4 +24,4 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 13 Apr 2022***
+***Last updated 19 Apr 2022***
