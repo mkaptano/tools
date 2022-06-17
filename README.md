@@ -24,4 +24,4 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
 
-***Last updated 10 May 2022***
+***Last updated 17 June 2022***
