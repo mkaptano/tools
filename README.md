@@ -19,7 +19,7 @@ Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link |
 ***Dell Trusted Device Agent*** | 8rdc8 | 4.5.121 | 06 Jun 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8rdc8 | Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers |
 ***Dell ImageAssist*** | na | 11.0.0 | Nov 2021 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na |
 ***Dell OpenManage Inventory Agent*** | na | 3.6.0.2 | 18 Feb 2022 | | https://downloads.dell.com/FOLDER08210736M/1/DSIAPC_3.6.0.2.msi | na |
-***Dell Peripheral Manager*** | vjyj9 | 1.5.3 | 1.5.3 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vjyj9 | na |
+***Dell Peripheral Manager*** | vjyj9 | 1.5.3 | 07 May 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vjyj9 | na |
 ***Dell Platform Tags*** | 97k79 | v4.0.40.0 | 03 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=97k79 | na |
 ***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.2.0.87 | 24 Mar 2022 | yes | https://tdm.dell.com/portal/ | na |
 
