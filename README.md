@@ -10,13 +10,13 @@
 |Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments |
 |----|----|----|----|----|----|----|
 | ***Dell Bios Flash Utility 64Bit*** | gdk36 | 3.3.16 | 08 Apr 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=gdk36 |na | 
-|***Dell Command Configure*** | 42df2 | 4.10.1.11 | 31 Mar 2023| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=42df2|na | 
+|***Dell Command Configure*** | 5wchh | 4.11.0.70 | 27 Oct 2023| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5wchh|na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | hwwk8 | A31 | 01 Aug 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hwwk8 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
 |***Dell Command Deploy WinPE 11 Driver Pack*** | 5dwn3 | A00 | 14 Mar 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5dwn3 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
-|***Dell Command Monitor*** | xydw7 | 10.9.1.11 | 31 Mar 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=xydw7 |na | 
+|***Dell Command Monitor*** | 94wk2 | 10.10.0.39 | 31 Oct 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=94wk2 |na | 
 |***Dell Command PowerShell Provider*** | dyry8 | 2.7.0.92 | 31 Oct 2022| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=dyry8 |na | 
-|***Dell Command Update Win32*** | hyr95 | 5.0.0 | 31 Jul 2023 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hyr95 |This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | 1wr6c | 5.0.0 | 31 Jul 2023 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1wr6c |This is the UWP version 
+|***Dell Command Update Win32*** | 44th5 | 5.1.0 | 31 Oct 2023 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=44th5 |This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | jcvw3 | 5.1.0 | 31 Oct 2023 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jcvw3 |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.14 | 24 Apr 2023 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Display Manager 1.x*** | m33cg | 1.56.2110| 10 Oct 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m33cg | Alternative download via https://www.delldisplaymanager.com/ | 
 |***Dell Display Manager 2.x*** | vw7ky | 2.1.1.36| 05 Jul 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vw7ky | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
@@ -32,4 +32,4 @@
 
  
 
-***Last updated 10 September 2023*** 
+***Last updated 6 November 2023*** 
