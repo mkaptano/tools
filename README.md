@@ -20,7 +20,7 @@
 |***Dell Custom Update Catalog*** | na | 2.14 | 24 Apr 2023 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Display Manager 1.x*** | m33cg | 1.56.2110| 10 Oct 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m33cg | Alternative download via https://www.delldisplaymanager.com/ | 
 |***Dell Display Manager 2.x*** | vw7ky | 2.1.1.36| 05 Jul 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vw7ky | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
-|***Dell Optimizer*** | 7g3g4 | 4.1.206.0 | 28 Aug 2023 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=7g3g4 | www.dell.com/optimizer | 
+|***Dell Optimizer*** | 79p4h | 4.1.351.0 | 28 Sep 2023 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=79p4h | www.dell.com/optimizer | 
 |***Dell Power Manager*** | yx9mn| 3.15.0 | 26 Jul 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=yx9mn| The Dell Power Manager is now integrated into Dell Optimizer | 
 |***Dell Trusted Device Agent*** | h7t40 | 5.10.9.0 | 06 Nov 2023| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=h7t40| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.0.3| 25 OCT 2022 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
@@ -32,4 +32,4 @@
 
  
 
-***Last updated 9 November 2023*** 
+***Last updated 24 November 2023*** 
