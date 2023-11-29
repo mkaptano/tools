@@ -9,7 +9,7 @@
  
 |Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments |
 |----|----|----|----|----|----|----|
-| ***Dell Bios Flash Utility 64Bit*** | gdk36 | 3.3.16 | 08 Apr 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=gdk36 |na | 
+| ***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
 |***Dell Command Configure*** | 5wchh | 4.11.0.70 | 27 Oct 2023| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5wchh|na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | hwwk8 | A31 | 01 Aug 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hwwk8 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
 |***Dell Command Deploy WinPE 11 Driver Pack*** | 5dwn3 | A00 | 14 Mar 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5dwn3 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
@@ -32,4 +32,4 @@
 
  
 
-***Last updated 24 November 2023*** 
+***Last updated 29 November 2023*** 
