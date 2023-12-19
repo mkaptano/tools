@@ -9,10 +9,10 @@
  
 |Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments |
 |----|----|----|----|----|----|----|
-| ***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
+|***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
 |***Dell Command Configure*** | 5wchh | 4.11.0.70 | 27 Oct 2023| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5wchh|na | 
-|***Dell Command Deploy WinPE 10 Driver Pack*** | hwwk8 | A31 | 01 Aug 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hwwk8 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
-|***Dell Command Deploy WinPE 11 Driver Pack*** | 5dwn3 | A00 | 14 Mar 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5dwn3 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
+|***Dell Command Deploy WinPE 10 Driver Pack*** | 473p6 | A32 | 12 Dec 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=473p6 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
+|***Dell Command Deploy WinPE 11 Driver Pack*** | 28hg7 | A01 | 12 Dec 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=28hg7 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Monitor*** | 94wk2 | 10.10.0.39 | 31 Oct 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=94wk2 |na | 
 |***Dell Command PowerShell Provider*** | dyry8 | 2.7.0.92 | 31 Oct 2022| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=dyry8 |na | 
 |***Dell Command Update Win32*** | 44th5 | 5.1.0 | 31 Oct 2023 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=44th5 |This is the last Win32 version of DCU 
@@ -30,6 +30,5 @@
 |***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.5.0.46197 | 30 Oct 2023 | yes | https://tdm.dell.com/portal/ | na | 
  
 
- 
 
-***Last updated 11 December 2023*** 
+***Last updated 19 December 2023*** 
