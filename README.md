@@ -25,10 +25,10 @@
 |***Dell Trusted Device Agent*** | 3x9d8 | 6.2.2.0 | 04 Mar  2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=3x9d8| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.0.3| 25 Oct 2022 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 4.1.2.24 | 04 Jan 2024 | | https://downloads.dell.com/FOLDER11039086M/1/DSIAPC_4.1.2.24.msi |  | 
-|***Dell Peripheral Manager*** | n23f2 | 1.7.2| 25 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=nn23f2 | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-peripheral-manager/drivers | 
+|***Dell Peripheral Manager*** | kcv3r | 1.7.3 | 27 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kcv3r | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-peripheral-manager/drivers | 
 |***Dell Platform Tags*** | 97k79 | v4.0.40.0 | 03 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=97k79 | na | 
 |***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.5.0.46197 | 30 Oct 2023 | yes | https://tdm.dell.com/portal/ | na | 
  
 
 
-***Last updated 02 April 2024*** 
+***Last updated 03 April 2024*** 
