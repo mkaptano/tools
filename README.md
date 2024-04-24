@@ -11,8 +11,8 @@
 |----|----|----|----|----|----|----|
 |***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
 |***Dell Command Configure*** | tj7vc | 4.11.1.48 | 30 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=tj7vc |na | 
-|***Dell Command Deploy WinPE 10 Driver Pack*** | 473p6 | A32 | 12 Dec 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=473p6 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
-|***Dell Command Deploy WinPE 11 Driver Pack*** | 28hg7 | A01 | 12 Dec 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=28hg7 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
+|***Dell Command Deploy WinPE 10 Driver Pack*** | cckd7 | A33 | 23 Apr. 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=cckd7 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
+|***Dell Command Deploy WinPE 11 Driver Pack*** | 43t34 | A02 | 23 Apr. 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=43t34 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Monitor*** | kf06n | 10.10.1.13 | 29 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kf06n |na | 
 |***Dell Command PowerShell Provider*** | 4t7rj | 2.7.2.1 | 19 Mar 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4t7rj |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.7.2) | 
 |***Dell Command Update Win32*** | 4r78g | 5.2.0 | 31 Jan 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4r78g |This is the last Win32 version of DCU 
@@ -31,4 +31,4 @@
  
 
 
-***Last updated 11 April 2024*** 
+***Last updated 24 April 2024*** 
