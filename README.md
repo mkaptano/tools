@@ -15,8 +15,8 @@
 |***Dell Command Deploy WinPE 11 Driver Pack*** | 43t34 | A02 | 23 Apr. 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=43t34 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Monitor*** | kf06n | 10.10.1.13 | 29 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kf06n |na | 
 |***Dell Command PowerShell Provider*** | 4t7rj | 2.7.2.1 | 19 Mar 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4t7rj |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.7.2) | 
-|***Dell Command Update Win32*** | 4r78g | 5.2.0 | 31 Jan 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4r78g |This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | 0xnvx | 5.2.0 | 31 Jan 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0xnvx |This is the UWP version 
+|***Dell Command Update Win32*** | t45gh | 5.3.0 | 30 Apr 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t45gh |This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | p83k5 | 5.3.0 | 30 Apr 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=p83k5 |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Display Manager 1.x*** | m33cg | 1.56.2110| 10 Oct 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m33cg | Alternative download via https://www.delldisplaymanager.com/ | 
 |***Dell Display Manager 2.x*** | 1985x | 2.3.0.22 | 26 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1985x | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
@@ -31,4 +31,4 @@
  
 
 
-***Last updated 24 April 2024*** 
+***Last updated 02 May 2024*** 
