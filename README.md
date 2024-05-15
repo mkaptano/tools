@@ -19,7 +19,7 @@
 |***Dell Command Update UWP*** | p83k5 | 5.3.0 | 30 Apr 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=p83k5 |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Display Manager 1.x*** | m33cg | 1.56.2110| 10 Oct 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m33cg | Alternative download via https://www.delldisplaymanager.com/ | 
-|***Dell Display Manager 2.x*** | 1985x | 2.3.0.22 | 26 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1985x | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
+|***Dell Display Manager 2.x*** | 7719n | 2.3.0.23 | 08 May 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=7719n | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
 |***Dell Optimizer*** | n5v68 | 4.2.2.0 | 09 Apr 2024 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=n5v68| www.dell.com/optimizer | 
 |***Dell Power Manager*** | yx9mn| 3.15.0 | 26 Jul 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=yx9mn| The Dell Power Manager is now integrated into Dell Optimizer | 
 |***Dell Trusted Device Agent*** | fc47n | 6.3.6.0 | 03 Apr 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fc47n| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
@@ -31,4 +31,4 @@
  
 
 
-***Last updated 06 May 2024*** 
+***Last updated 15 May 2024*** 
