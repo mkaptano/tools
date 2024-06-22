@@ -12,7 +12,7 @@
 |***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
 |***Dell Command Configure*** | tj7vc | 4.11.1.48 | 30 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=tj7vc |na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | cckd7 | A33 | 23 Apr. 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=cckd7 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
-|***Dell Command Deploy WinPE 11 Driver Pack*** | 43t34 | A02 | 23 Apr. 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=43t34 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
+|***Dell Command Deploy WinPE 11 Driver Pack*** | v81gv | A03 | 28 May 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=v81gv | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Endpoint Configure for Microsoft Intune*** | t88x8 | 1.20.76 | 26 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t88x8 |na | 
 |***Dell Command Monitor*** | kf06n | 10.10.1.13 | 29 Jan 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kf06n |na | 
 |***Dell Command PowerShell Provider*** | 4t7rj | 2.7.2.1 | 19 Mar 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4t7rj |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.7.2) | 
@@ -32,4 +32,4 @@
  
 
 
-***Last updated 20 Jun 2024*** 
+***Last updated 22 Jun 2024*** 
