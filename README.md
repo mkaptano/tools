@@ -27,9 +27,9 @@
 |***Dell ImageAssist*** | na | 11.1.1 | 21 Jun 2024 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 5.1.1.5 | 04 Apr 2024 | | https://downloads.dell.com/FOLDER11461293M/1/DSIAPC_5.1.1.5.msi |  | 
 |***Dell Peripheral Manager*** | 2cxg5 | 1.7.6 | 30 Jul 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5 | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-peripheral-manager/drivers | 
-|***Dell Platform Tags*** | 97k79 | v4.0.40.0 | 03 Mar 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=97k79 | na | 
+|***Dell Platform Tags*** | wvtrf| 4.0.45.0 | 23 Jan 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=wvtrf | na | 
 |***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.6.0.56884 | 16 March 2024 | yes | https://tdm.dell.com/portal/ | na | 
  
 
 
-***Last updated 22 Jan 2025*** 
+***Last updated 27 Jan 2025*** 
