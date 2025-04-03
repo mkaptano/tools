@@ -17,8 +17,8 @@
 |***Dell Command Endpoint Configure for Microsoft Intune*** | t88x8 | 1.20.76 | 26 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t88x8 |na | 
 |***Dell Command Monitor*** | 57xyf | 10.12.0.17 | 21 Jan 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=57xyf |na | 
 |***Dell Command PowerShell Provider*** | 4t7rj | 2.7.2.1 | 19 Mar 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=4t7rj |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.7.2) | 
-|***Dell Command Update Win32*** | 6vfww | 5.4.0 | 31 Jul 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=6vfww|This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | 9m35m | 5.4.0 | 31 Jul 2024 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9m35m |This is the UWP version 
+|***Dell Command Update Win32*** | hw0k4 | 5.5.0 | 01 Apr 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hw0k4|This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | p4djw | 5.5.0 | 01 Apr 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=p4djw |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Display Manager 1.x*** | m33cg | 1.56.2110| 10 Oct 2022 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m33cg | Alternative download via https://www.delldisplaymanager.com/ | 
 |***Dell Display Manager 2.x*** | 98wwm | 2.3.1.14 | 10 Jun 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=98wwm | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
@@ -33,4 +33,4 @@
  
 
 
-***Last updated 01 Apr 2025*** 
+***Last updated 03 Apr 2025*** 
