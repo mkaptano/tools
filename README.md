@@ -24,12 +24,12 @@
 |***Dell Display Manager 2.x*** | 98wwm | 2.3.1.14 | 10 Jun 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=98wwm | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
 |***Dell Optimizer*** | j1h35 | 4.2.4.0 | 30 Sep 2024 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j1h35| www.dell.com/optimizer | 
 |***Dell Power Manager*** | njdxk | 3.17.0 | 02 Dec 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=njdxk| The Dell Power Manager is now integrated into Dell Optimizer | 
-|***Dell Trusted Device Agent*** | 0fh2k | 6.4.3.0 | 15 Jul 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0fh2k| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
+|***Dell Trusted Device Agent*** | mc26x | 6.5.5.0 | 04 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=mc26x| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.1 | 21 Jun 2024 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 5.1.1.5 | 04 Apr 2024 | | https://downloads.dell.com/FOLDER11461293M/1/DSIAPC_5.1.1.5.msi |  | 
 |***Dell Peripheral Manager*** | 2cxg5 | 1.7.6 | 30 Jul 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5 | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-peripheral-manager/drivers | 
 |***Dell Platform Tags*** | t6xt0| 4.0.46.0 | 14 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t6xt0 | na | 
-|***Dell SupportAssist (Business clients via TechDirect)*** | na | 3.6.0.56884 | 16 March 2024 | yes | https://tdm.dell.com/portal/ | na | 
+|***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.5.3.25254 | Feb 2025 | yes | https://tdm.dell.com/portal/ | na | 
  
 
 
