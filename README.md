@@ -24,7 +24,7 @@
 |***Dell Display Manager 2.x*** | 98wwm | 2.3.1.14 | 10 Jun 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=98wwm | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-display-peripheral-manager/drivers |  
 |***Dell Optimizer*** | j1h35 | 4.2.4.0 | 30 Sep 2024 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j1h35| www.dell.com/optimizer | 
 |***Dell Power Manager*** | njdxk | 3.17.0 | 02 Dec 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=njdxk| The Dell Power Manager is now integrated into Dell Optimizer | 
-|***Dell Trusted Device Agent*** | mc26x | 6.5.5.0 | 04 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=mc26x| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
+|***Dell Trusted Device Agent*** | wtxwg | 7.0.3.0 | 02 Apr 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=wtxwg| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.1 | 21 Jun 2024 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 5.1.1.5 | 04 Apr 2024 | | https://downloads.dell.com/FOLDER11461293M/1/DSIAPC_5.1.1.5.msi |  | 
 |***Dell Peripheral Manager*** | 2cxg5 | 1.7.6 | 30 Jul 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2cxg5 | Alternative link https://www.dell.com/support/home/en-us/product-support/product/dell-peripheral-manager/drivers | 
@@ -33,4 +33,4 @@
  
 
 
-***Last updated 03 Apr 2025*** 
+***Last updated 04 Apr 2025*** 
