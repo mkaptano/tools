@@ -9,7 +9,7 @@
  
 |Dell Tool | Driver ID | Version | Release Date | Auto-Update available? | Link | Comments |
 |----|----|----|----|----|----|----|
-|***Dell Bios Flash Utility 64Bit*** | 9mjcy | 3.3.22 | 27 Nov 2023 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=9mjcy |na | 
+|***Dell System Firmware Update Utility 64 Bit (For IT Use Only)*** | dxjmt| 3.3.28 | 13 Dec 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=dxjmt |na | 
 |***Dell Client Device Manager*** | 1yrvk | 1.0.0.3 | 21 Mar 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1yrvk |https://www.dell.com/support/product-details/en-us/product/dell-client-device-manager/overview | 
 |***Dell Command Configure*** | pnvdy | 5.1.0.24 | 27 Feb 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=pnvdy |na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | mn2j1 | A36 | 27 Mar 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=mn2j1 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
@@ -33,4 +33,4 @@
  
 
 
-***Last updated 04 Apr 2025*** 
+***Last updated 18 June 2025*** 
