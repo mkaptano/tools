@@ -11,7 +11,7 @@
 |----|----|----|----|----|----|----|
 |***Dell System Firmware Update Utility 64 Bit (For IT Use Only)*** | dxjmt| 3.3.28 | 13 Dec 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=dxjmt |na | 
 |***Dell Client Device Manager*** | 1yrvk | 1.0.0.3 | 21 Mar 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1yrvk |https://www.dell.com/support/product-details/en-us/product/dell-client-device-manager/overview | 
-|***Dell Command Configure*** | pnvdy | 5.1.0.24 | 27 Feb 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=pnvdy |na | 
+|***Dell Command Configure*** | md8cj | 5.2.0.9 | 27 Mar 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=md8cj|na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | mn2j1 | A36 | 27 Mar 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=mn2j1 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
 |***Dell Command Deploy WinPE 11 Driver Pack*** | v81gv | A03 | 28 May 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=v81gv | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Endpoint Configure for Microsoft Intune*** | t88x8 | 1.20.76 | 26 Mar 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t88x8 |na | 
