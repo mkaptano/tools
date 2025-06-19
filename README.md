@@ -21,7 +21,7 @@
 |***Dell Command Update UWP*** | p4djw | 5.5.0 | 01 Apr 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=p4djw |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Displays and Peripheral Manager*** | d6rwj| 2.0.3.9| 02 Jun 2025| | https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
-|***Dell Optimizer*** | j1h35 | 4.2.4.0 | 30 Sep 2024 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=j1h35| www.dell.com/optimizer | 
+|***Dell Optimizer*** | fw7km | 6.0.2.0 | 07 Jan 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fw7km |www.dell.com/optimizer | 
 |***Dell Power Manager*** | njdxk | 3.17.0 | 02 Dec 2024 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=njdxk| The Dell Power Manager is now integrated into Dell Optimizer | 
 |***Dell Trusted Device Agent*** | wtxwg | 7.0.3.0 | 02 Apr 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=wtxwg| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.1 | 21 Jun 2024 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
