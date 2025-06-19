@@ -17,8 +17,8 @@
 |***Dell Command Endpoint Configure for Microsoft Intune*** | vdmmp | 2.0.1 | 24 Apr 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vdmmp |na | 
 |***Dell Command Monitor*** | jgv6g | 10.12.2.3| 26 May 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=jgv6g|na | 
 |***Dell Command PowerShell Provider*** | m9cjn | 2.9.0.69| 29 Oct 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m9cjn |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.9.0) | 
-|***Dell Command Update Win32*** | hw0k4 | 5.5.0 | 01 Apr 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hw0k4|This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | p4djw | 5.5.0 | 01 Apr 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=p4djw |This is the UWP version 
+|***Dell Command Update Win32*** | 99dd9 | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=99dd9|This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | 66wnx | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=66wnx |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Displays and Peripheral Manager*** | d6rwj| 2.0.3.9| 02 Jun 2025| | https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
 |***Dell Optimizer*** | fw7km | 6.0.2.0 | 07 Jan 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fw7km |www.dell.com/optimizer | 
