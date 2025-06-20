@@ -23,8 +23,8 @@
 |***Dell Displays and Peripheral Manager*** | d6rwj| 2.0.3.9| 02 Jun 2025| | https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
 |***Dell Optimizer*** | fw7km | 6.0.2.0 | 07 Jan 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fw7km |www.dell.com/optimizer | 
 |***Dell Trusted Device Agent*** | g4w4v| 7.1.4.0 | 02 Apr 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g4w4v| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
-|***Dell ImageAssist*** | na | 11.1.1 | 21 Jun 2024 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
-|***Dell OpenManage Inventory Agent*** | na | 5.1.1.5 | 04 Apr 2024 | | https://downloads.dell.com/FOLDER11461293M/1/DSIAPC_5.1.1.5.msi |  | 
+|***Dell ImageAssist*** | na | 11.1.3 | 05 Feb 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
+|***Dell OpenManage Inventory Agent*** | na | 13.1.1.9 | 22 May 2025 | | https://downloads.dell.com/FOLDER13133320M/1/DSIAPC_13.1.1.9.msi |  | 
 |***Dell Platform Tags*** | t6xt0| 4.0.46.0 | 14 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t6xt0 | na | 
 |***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.5.3.25254 | Feb 2025 | yes | https://tdm.dell.com/portal/ | na | 
  
