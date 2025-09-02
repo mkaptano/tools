@@ -20,7 +20,7 @@
 |***Dell Command Update Win32*** | 99dd9 | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=99dd9|This is the last Win32 version of DCU 
 |***Dell Command Update UWP*** | 66wnx | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=66wnx |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
-|***Dell Displays and Peripheral Manager*** | pp99t| 2.1.0.17| 24 Jun 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=pp99t | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
+|***Dell Displays and Peripheral Manager*** | n5n3c| 2.1.1.12 | 25 Aug 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=n5n3c | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
 |***Dell Optimizer*** | fw7km | 6.0.2.0 | 07 Jan 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fw7km |www.dell.com/optimizer | 
 |***Dell Trusted Device Agent*** | g4w4v| 7.1.4.0 | 02 Apr 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g4w4v| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.3 | 05 Feb 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
@@ -30,4 +30,4 @@
  
 
 
-***Last updated 24 June 2025*** 
+***Last updated 2 Sep 2025*** 
