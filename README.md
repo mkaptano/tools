@@ -24,7 +24,7 @@
 |***Dell Optimizer*** | g3tr8 | 6.2.1.0 | 06 Oct 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g3tr8 |www.dell.com/optimizer | 
 |***Dell Trusted Device Agent*** | 0gm4p| 7.2.10.0 | 29 Oct 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0gm4p| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.3 | 05 Feb 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
-|***Dell OpenManage Inventory Agent*** | na | 13.1.1.9 | 22 May 2025 | | https://downloads.dell.com/FOLDER13133320M/1/DSIAPC_13.1.1.9.msi |  | 
+|***Dell OpenManage Inventory Agent*** | na | 13.6.0.42 | 17 Oct 2025 | | https://downloads.dell.com/FOLDER13736190M/1/DSIAPC_13.6.0.42.msi |  | 
 |***Dell Platform Tags*** | t6xt0| 4.0.46.0 | 14 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t6xt0 | na | 
 |***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.9.1.48804 | 22 Nov 2025 | yes | https://tdm.dell.com/portal/ | na | 
  
