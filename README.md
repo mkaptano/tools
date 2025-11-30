@@ -17,11 +17,11 @@
 |***Dell Command Endpoint Configure for Microsoft Intune*** | vdmmp | 2.0.1 | 24 Apr 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vdmmp |na | 
 |***Dell Command Monitor*** | yykp6 | 10.12.3.28 | 05 Nov 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=yykp6 |na | 
 |***Dell Command PowerShell Provider*** | m9cjn | 2.9.0.69| 29 Oct 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m9cjn |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.9.0) | 
-|***Dell Command Update Win32*** | 99dd9 | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=99dd9|This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | 66wnx | 5.5.0 | 19 Jun 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=66wnx |This is the UWP version 
+|***Dell Command Update Win32*** | 5cr1y | 5.6.0 | 28 Nov 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5cr1y|This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | 2wt0j | 5.6.0 | 28 Nov 2025 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=2wt0j |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
-|***Dell Displays and Peripheral Manager*** | n5n3c| 2.1.1.12 | 25 Aug 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=n5n3c | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
-|***Dell Optimizer*** | fw7km | 6.0.2.0 | 07 Jan 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=fw7km |www.dell.com/optimizer | 
+|***Dell Displays and Peripheral Manager*** | w8w8c| 2.1.2.12 | 24 Sep 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w8w8c | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
+|***Dell Optimizer*** | g3tr8 | 6.2.1.0 | 06 Oct 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g3tr8 |www.dell.com/optimizer | 
 |***Dell Trusted Device Agent*** | 0gm4p| 7.1.10.0 | 29 Oct 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0gm4p| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.3 | 05 Feb 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 13.1.1.9 | 22 May 2025 | | https://downloads.dell.com/FOLDER13133320M/1/DSIAPC_13.1.1.9.msi |  | 
