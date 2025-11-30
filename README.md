@@ -22,11 +22,11 @@
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Displays and Peripheral Manager*** | w8w8c| 2.1.2.12 | 24 Sep 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w8w8c | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
 |***Dell Optimizer*** | g3tr8 | 6.2.1.0 | 06 Oct 2025 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g3tr8 |www.dell.com/optimizer | 
-|***Dell Trusted Device Agent*** | 0gm4p| 7.1.10.0 | 29 Oct 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0gm4p| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
+|***Dell Trusted Device Agent*** | 0gm4p| 7.2.10.0 | 29 Oct 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0gm4p| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.1.3 | 05 Feb 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 13.1.1.9 | 22 May 2025 | | https://downloads.dell.com/FOLDER13133320M/1/DSIAPC_13.1.1.9.msi |  | 
 |***Dell Platform Tags*** | t6xt0| 4.0.46.0 | 14 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t6xt0 | na | 
-|***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.5.3.25254 | Feb 2025 | yes | https://tdm.dell.com/portal/ | na | 
+|***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.9.1.48804 | 22 Nov 2025 | yes | https://tdm.dell.com/portal/ | na | 
  
 
 
