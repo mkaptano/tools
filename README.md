@@ -13,7 +13,7 @@
 |***Dell Client Device Manager*** | 1yrvk | 1.0.0.3 | 21 Mar 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=1yrvk |https://www.dell.com/support/product-details/en-us/product/dell-client-device-manager/overview | 
 |***Dell Command Configure*** | 5rnw8 | 5.2.1.16 | 27 Nov 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5rnw8 |na | 
 |***Dell Command Deploy WinPE 10 Driver Pack*** | thr8d| A37 | 19 Sep 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=thr8d | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000108642/winpe-10-driver-pack | 
-|***Dell Command Deploy WinPE 11 Driver Pack*** | 336tp| A06 | 27 Mar 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=336tp | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
+|***Dell Command Deploy WinPE 11 Driver Pack*** | 24y14| A07 | 19 Sep 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=24y14 | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Endpoint Configure for Microsoft Intune*** | vdmmp | 2.0.1 | 24 Apr 2025| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=vdmmp |na | 
 |***Dell Command Monitor*** | yykp6 | 10.12.3.28 | 05 Nov 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=yykp6 |na | 
 |***Dell Command PowerShell Provider*** | m9cjn | 2.9.0.69| 29 Oct 2024| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m9cjn |[na](https://www.powershellgallery.com/packages/DellBIOSProvider/2.9.0) | 
