@@ -26,8 +26,8 @@
 |***Dell ImageAssist*** | na | 11.2.0 | 01 Jun 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 13.6.0.42 | 17 Oct 2025 | | https://downloads.dell.com/FOLDER13736190M/1/DSIAPC_13.6.0.42.msi |  | 
 |***Dell Platform Tags*** | t6xt0| 4.0.46.0 | 14 Feb 2025 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=t6xt0 | na | 
-|***Dell SupportAssist (Business clients via TechDirect)*** | na | 4.9.1.48804 | 22 Nov 2025 | yes | https://tdm.dell.com/portal/ | na | 
+|***Dell SupportAssist (Business clients via TechDirect)*** | na | 5.1.1.3567 | 09 Jun 2026 | yes | https://tdm.dell.com/portal/ | na | 
  
 
 
-***Last updated 07 Jun 2026*** 
+***Last updated 15 Jun 2026*** 
