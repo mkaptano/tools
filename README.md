@@ -21,7 +21,7 @@
 |***Dell Command Update UWP*** | dww9j | 5.7.1 | 03 Aug 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=DWW9J |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Displays and Peripheral Manager*** | g5cgw | 2.2.2.8 | 11 May 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g5cgw | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
-|***Dell Optimizer*** | hngg1 | 6.3.3.0 | 20 Apr 2026 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=hngg1 |www.dell.com/optimizer | 
+|***Dell Optimizer*** | 5n4cv | 6.3.4.0 | 21 Jul 2026 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5n4cv |www.dell.com/optimizer | 
 |***Dell Trusted Device Agent*** | 0gkyx | 8.0.185 | 30 Apr 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0gkyx| Alternative https://www.dell.com/support/home/en-us/product-support/product/trusted-device/drivers | 
 |***Dell ImageAssist*** | na | 11.2.0 | 01 Jun 2025 | | https://www.delltechnologies.com/en-us/services/support-deployment-technologies/image-assist.htm | na | 
 |***Dell OpenManage Inventory Agent*** | na | 13.6.0.42 | 17 Oct 2025 | | https://downloads.dell.com/FOLDER13736190M/1/DSIAPC_13.6.0.42.msi |  | 
