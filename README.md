@@ -16,7 +16,7 @@
 |***Dell Command Deploy WinPE 11 Driver Pack*** | xcxdw | A10 | 29 May 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=xcxdw | Driver Pack summary > https://www.dell.com/support/kbdoc/en-us/000211541/winpe-11-driver-pack | 
 |***Dell Command Endpoint Configure for Microsoft Intune*** | tfw7v | 2.0.4.278 | 13 May 2026| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=tfw7v  |na | 
 |***Dell Command Monitor*** | 5JH88 | 10.13.2.56 | 26 Aug 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5JH88 |na | 
-|***Dell Command PowerShell Provider*** | twkmg | 2.10.1 | 02 Apr 2026| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=twkmg |[na]| [PowershellGallery]https://www.powershellgallery.com/packages/DellBIOSProvider) | 
+|***Dell Command PowerShell Provider*** | kx6m1 | 2.10.2 | 13 Jul 2026| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kx6m1 |[na]| [PowershellGallery]https://www.powershellgallery.com/packages/DellBIOSProvider) | 
 |***Dell Command Update Win32*** | 6jgr0 | 5.7.1 | 03 Aug 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=6JGR0|This is the last Win32 version of DCU 
 |***Dell Command Update UWP*** | dww9j | 5.7.1 | 03 Aug 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=DWW9J |This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
