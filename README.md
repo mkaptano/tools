@@ -17,8 +17,8 @@
 |***Dell Command Endpoint Configure for Microsoft Intune*** | tfw7v | 2.0.4.278 | 13 May 2026| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=tfw7v  |na | 
 |***Dell Command Monitor*** | 5JH88 | 10.13.2.56 | 26 Aug 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5JH88 |na | 
 |***Dell Command PowerShell Provider*** | kx6m1 | 2.10.2 | 13 Jul 2026| | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=kx6m1 |[na]| [PowershellGallery]https://www.powershellgallery.com/packages/DellBIOSProvider) | 
-|***Dell Command Update Win32*** | 6jgr0 | 5.7.1 | 03 Aug 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=6JGR0|This is the last Win32 version of DCU 
-|***Dell Command Update UWP*** | dww9j | 5.7.1 | 03 Aug 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=DWW9J |This is the UWP version 
+|***Dell Command Update Win32*** | wyj59 | 5.7.2 | 11 Sep 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=wyj59|This is the last Win32 version of DCU 
+|***Dell Command Update UWP*** | m9h5f | 5.7.2 | 11 Sep 2026 | yes | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m9h5f|This is the UWP version 
 |***Dell Custom Update Catalog*** | na | 2.17 | 26 Jan 2024 | | https://www.dell.com/support/manuals/en-us/command-cloud-repository-manager/sa_updatecatalog_dccrm_internal_r-notes | na | 
 |***Dell Displays and Peripheral Manager*** | g5cgw | 2.2.2.8 | 11 May 2026 | | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=g5cgw | [See Dell Display and Peripheral Manager](https://www.dell.com/support/product-details/en-us/product/dell-display-peripheral-manager/drivers) |  
 |***Dell Optimizer*** | 5n4cv | 6.3.4.0 | 21 Jul 2026 |  | https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=5n4cv |www.dell.com/optimizer | 
@@ -30,4 +30,4 @@
  
 
 
-***Last updated 10 Sep 2026*** 
+***Last updated 18 Sep 2026*** 
